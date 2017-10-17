@@ -1,3 +1,6 @@
+//Arduino sketch to send Hello Raspberry to RaspberryPi3
+
+
 void setup() {
 
   Serial.begin(9600);
